@@ -27,6 +27,7 @@ I'm a highly motivated and curious recent graduate with a strong foundation in c
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
 </div>
+
 ### Frontend Development
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -35,6 +36,7 @@ I'm a highly motivated and curious recent graduate with a strong foundation in c
 <img src="https://img.shields.io/badge/Redux%20-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
 <img src="https://img.shields.io/badge/Tailwind%20CSS%20-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
 </div>
+
 ### Backend Development
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -43,6 +45,7 @@ I'm a highly motivated and curious recent graduate with a strong foundation in c
 <img src="https://img.shields.io/badge/Express%20-%23404d59.svg?style=for-the-badge" alt="Express">
 <img src="https://img.shields.io/badge/Gin%20-%23008ECF.svg?style=for-the-badge&logo=go&logoColor=white" alt="Gin">
 </div>
+
 ### Databases
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -66,7 +69,9 @@ I'm a highly motivated and curious recent graduate with a strong foundation in c
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </div>
+
 ### Extras
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Terminal">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
