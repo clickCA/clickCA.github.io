@@ -18,6 +18,7 @@ I'm a highly motivated and curious recent graduate with a strong foundation in c
 ## Skills
 
 ### Languages
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -27,6 +28,7 @@ I'm a highly motivated and curious recent graduate with a strong foundation in c
 <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
 </div>
 ### Frontend Development
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
 <img src="https://img.shields.io/badge/Next.js%20-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
@@ -34,6 +36,7 @@ I'm a highly motivated and curious recent graduate with a strong foundation in c
 <img src="https://img.shields.io/badge/Tailwind%20CSS%20-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
 </div>
 ### Backend Development
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://img.shields.io/badge/ASP.NET%20-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET">
 <img src="https://img.shields.io/badge/NestJS%20-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
@@ -41,16 +44,21 @@ I'm a highly motivated and curious recent graduate with a strong foundation in c
 <img src="https://img.shields.io/badge/Gin%20-%23008ECF.svg?style=for-the-badge&logo=go&logoColor=white" alt="Gin">
 </div>
 ### Databases
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://img.shields.io/badge/MS%20SQL%20-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS-SQL">
 <img src="https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 <img src="https://img.shields.io/badge/MySQL%20-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
+
 ### Cloud Hosting
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages">
 </div>
+
 ### Software and Tools
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
