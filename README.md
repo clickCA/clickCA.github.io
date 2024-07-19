@@ -1,7 +1,3 @@
-﻿# clickCA.github.io
-
-## Home Page
-
 Welcome! I'm Chanakorn Aramsak, a recent graduate with a strong foundation in computer science and a passion for innovative software development. I'm seeking an Associate Software Developer position to contribute my skills and eagerness to learn in creating cutting-edge solutions.
 
 ## Skills
