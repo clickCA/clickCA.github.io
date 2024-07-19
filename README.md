@@ -15,66 +15,54 @@ I'm a highly motivated and curious recent graduate with a strong foundation in c
 
 <p align="center">
 
-- **Languages**:
-    
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-    ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+## Skills
 
-<br>   
-    
-- **Frontend Development**:
+### Languages
 
-   ![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-   ![Next.js](https://img.shields.io/badge/Next.js%20-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-   ![Redux](https://img.shields.io/badge/Redux%20-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-   ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS%20-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-<br>
+### Frontend Development
 
-- **Backend Development**:
+![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js%20-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux%20-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS%20-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-    ![ASP.NET](https://img.shields.io/badge/ASP.NET%20-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
-    ![NestJS](https://img.shields.io/badge/NestJS%20-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-    ![Express](https://img.shields.io/badge/Express%20-%23404d59.svg?style=for-the-badge)
-    ![Gin](https://img.shields.io/badge/Gin%20-%23008ECF.svg?style=for-the-badge&logo=go&logoColor=white)
+### Backend Development
 
-<br>
+![ASP.NET](https://img.shields.io/badge/ASP.NET%20-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS%20-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express%20-%23404d59.svg?style=for-the-badge)
+![Gin](https://img.shields.io/badge/Gin%20-%23008ECF.svg?style=for-the-badge&logo=go&logoColor=white)
 
-- **Databases**:
+### Databases
 
-    ![MS-SQL](https://img.shields.io/badge/MS%20SQL%20-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL%20-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MS-SQL](https://img.shields.io/badge/MS%20SQL%20-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL%20-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br>
+### Cloud Hosting
 
-- **Cloud Hosting**:
+![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
+### Software and Tools
 
-- **Softwares and Tools**:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+### Extras
 
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-    ![Stripe](https://img.shields.io/badge/Stripe%20-%23008CDD.svg?style=for-the-badge&logo=stripe&logoColor=white)
-
-</p>
+![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe%20-%23008CDD.svg?style=for-the-badge&logo=stripe&logoColor=white)
 
 <br>
 <br>
