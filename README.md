@@ -91,7 +91,7 @@ I'm a highly motivated and curious recent graduate with a strong foundation in c
 <a href="https://github.com/clickCA/">
   <img src="https://github-readme-stats.vercel.app/api?username=clickCA&include_all_commits=true&count_private=true&show_icons=true&line_height=20" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clickCA&show_icons=true&locale=en&layout=compact" width="375"  alt="chanakorn-aramsak"/>
-  [![ClickCA's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=clickCA)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=clickCA" width="375"  alt="chanakorn-aramsak"/>
 </a>
 </div>
 
