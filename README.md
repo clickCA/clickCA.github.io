@@ -18,51 +18,52 @@ I'm a highly motivated and curious recent graduate with a strong foundation in c
 ## Skills
 
 ### Languages
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/C%23%20-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-
+</div>
 ### Frontend Development
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
 <img src="https://img.shields.io/badge/Next.js%20-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
 <img src="https://img.shields.io/badge/Redux%20-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
 <img src="https://img.shields.io/badge/Tailwind%20CSS%20-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-
+</div>
 ### Backend Development
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://img.shields.io/badge/ASP.NET%20-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET">
 <img src="https://img.shields.io/badge/NestJS%20-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
 <img src="https://img.shields.io/badge/Express%20-%23404d59.svg?style=for-the-badge" alt="Express">
 <img src="https://img.shields.io/badge/Gin%20-%23008ECF.svg?style=for-the-badge&logo=go&logoColor=white" alt="Gin">
-
+</div>
 ### Databases
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://img.shields.io/badge/MS%20SQL%20-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS-SQL">
 <img src="https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 <img src="https://img.shields.io/badge/MySQL%20-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-
+</div>
 ### Cloud Hosting
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages">
-
+</div>
 ### Software and Tools
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-
+</div>
 ### Extras
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Terminal">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
 <img src="https://img.shields.io/badge/Stripe%20-%23008CDD.svg?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
+</div>
 <br>
 
 -----
