@@ -4,6 +4,15 @@
 
 Welcome! I'm Chanakorn Aramsak, a recent graduate with a strong foundation in computer science and a passion for innovative software development. I'm seeking an Associate Software Developer position to contribute my skills and eagerness to learn in creating cutting-edge solutions.
 
+## Skills
+
+- Frontend: React, Next.js, Redux, Tailwind CSS, Bootstrap
+- Backend: ASP.NET, NestJS, Express, Golang (Gin)
+- Databases: MS-SQL, MongoDB, MySQL
+- Tools & Technologies: Git, Docker, OAuth2, JWT, Stripe API
+- Testing: Jest, Cypress
+- Languages: JavaScript, TypeScript, Python, Java, C, Ruby
+
 ## About Me
 
 I am a highly motivated and curious computer science graduate with a keen interest in full-stack development, enterprise applications, and emerging technologies. My experience spans from frontend development with React and Next.js to backend work with ASP.NET, NestJS, and various databases. I'm committed to continuous learning and excited to tackle new challenges in the tech industry.
@@ -44,11 +53,4 @@ I am a highly motivated and curious computer science graduate with a keen intere
 - Implemented Docker for streamlined local development.
 - Integrated Stripe for payment processing and SMTP for email communication.
 
-## Skills
 
-- Frontend: React, Next.js, Redux, Tailwind CSS, Bootstrap
-- Backend: ASP.NET, NestJS, Express, Golang (Gin)
-- Databases: MS-SQL, MongoDB, MySQL
-- Tools & Technologies: Git, Docker, OAuth2, JWT, Stripe API
-- Testing: Jest, Cypress
-- Languages: JavaScript, TypeScript, Python, Java, C, Ruby
